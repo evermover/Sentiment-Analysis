@@ -17,4 +17,5 @@ The system is limited by the quality of the Yelp dataset. The dataset is constan
 The system could be improved by using a more comprehensive dataset of Yelp comments. Additionally, the system could be improved by using a more sophisticated sentiment analysis algorithm.
 
 ## Contact information:
-If you have any questions or suggestions, please contact me at [email protected]
+If you have any questions or suggestions, please contact me at pathak.aishwary01@gmail.com
+Linkedin Id: https://www.linkedin.com/in/imaishwaryapathak/
